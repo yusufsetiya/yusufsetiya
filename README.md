@@ -5,7 +5,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi Everyone 👋, I'm Mochamad Yusuf Setiya Putra</h1></summary>
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Mochamad Yusuf Setiya Putra</h1></summary>
   </ul>
 </div>
 
@@ -20,7 +20,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">~ I'm a Web Developer ~</h1></summary>
+    <summary><h2 style="display: inline-block">~ I am a Web Developer ~</h2></summary>
   </ul>
 </div>
 <hr>
