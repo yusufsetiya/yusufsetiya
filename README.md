@@ -23,7 +23,7 @@
     <summary><h2 style="display: inline-block">~ I am a Web Developer ~</h2></summary>
   </ul>
 </div>
-<hr>
+
 
 - 🌍  Based in Malang, Indonesia
 
