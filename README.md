@@ -29,7 +29,7 @@
 
 - 🖥️  See My Portofolio at [Here](https://yusufsetiya.vercel.app)
 
-- 💬  You can contact me at yusufuyaimub87@gmail.com
+- 💬  You can contact me at yusufsetiya6@gmail.com
 
 - 🚀  I'm currently Studying In Merdeka University
 
