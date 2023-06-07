@@ -20,12 +20,12 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">~ Im a Web Developer ~</h1></summary>
+    <summary><h1 style="display: inline-block">~ I'm a Web Developer ~</h1></summary>
   </ul>
 </div>
 <hr>
 
-- 🌍  I'm based in Malang, Indonesia
+- 🌍  Based in Malang, Indonesia
 
 - 🖥️  See My Portofolio at [Here](https://yusufsetiya.vercel.app)
 
@@ -92,8 +92,8 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-----------------------------------------------------------------------
-Credit: [MochamadYusuf](https://github.com/yusufsetiya)
+
+
 
 
 
@@ -101,7 +101,7 @@ Credit: [MochamadYusuf](https://github.com/yusufsetiya)
 <!-- ### Hi there 👋 -->
 
 <!--
-**yusufsetiya/yusufsetiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**yusufsetiya/yusufsetiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on yor GitHub profile.
 
 Here are some ideas to get you started:
 
