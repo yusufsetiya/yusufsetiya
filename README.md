@@ -10,7 +10,7 @@
 </div>
 
 <!--- Line -->
-<hr style="border:2px solid gray">
+***
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
