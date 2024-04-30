@@ -6,8 +6,6 @@
 # Hi 👋, My name is Mochamad Yusuf Setiya Putra
 
 
-<!--- Line -->
-***
 <!--h2 without bottom border-->
 ## Iam a web developer 🌐
 <br>
