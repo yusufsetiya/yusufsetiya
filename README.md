@@ -4,9 +4,9 @@
 
 <!--h1 without bottom border-->
 <p align="center">
-# Hi 👋, My name is Mochamad Yusuf Setiya Putra
+<h1>Hi 👋, My name is Mochamad Yusuf Setiya Putra</h1>
 </p>
-
+<hr>
     
 
 <!--h2 without bottom border-->
