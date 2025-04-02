@@ -15,11 +15,9 @@
 <br>
 - 🌍  Based in Malang, Indonesia
 
-- 🖥️  See My Portofolio at [Here](https://labscode.my.id)
+- 🖥️  See My Portofolio at [Here](https://yusufsetiya.vercel.app)
 
-- 💬  You can contact me at yusufsetiya6@gmail.com
-
-- 🚀  I'm currently Studying In Merdeka University
+- 💬  You can contact me at mochamadyusufsp@gmail.com
 
 <!--Intro start-->
 <!-- - 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
